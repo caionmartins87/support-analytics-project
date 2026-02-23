@@ -1,0 +1,11 @@
+id_chamado,data_abertura,data_fechamento,prioridade,status,tempo_resolucao_horas,sla_cumprido,categoria
+1,2025-01-02,2025-01-02,Alta,Fechado,4,TRUE,Infraestrutura
+2,2025-01-03,2025-01-04,Média,Fechado,10,TRUE,Sistemas
+3,2025-01-05,2025-01-06,Baixa,Fechado,22,FALSE,Hardware
+4,2025-01-07,2025-01-07,Alta,Fechado,3,TRUE,Acesso
+5,2025-01-08,2025-01-09,Média,Fechado,14,TRUE,Sistemas
+6,2025-01-09,2025-01-10,Alta,Fechado,6,TRUE,Infraestrutura
+7,2025-01-10,2025-01-12,Baixa,Fechado,30,FALSE,Hardware
+8,2025-01-11,2025-01-11,Média,Fechado,5,TRUE,Acesso
+9,2025-01-12,2025-01-13,Alta,Fechado,7,TRUE,Sistemas
+10,2025-01-13,2025-01-14,Média,Fechado,11,TRUE,Infraestrutura
